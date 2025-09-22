@@ -1,0 +1,106 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f7ff;
+  color: #333;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 80px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* center horizontally */
+  gap: 10px; /* space between logo and title */
+  margin-bottom: 30px;
+}
+
+.logo {
+  width: 60px;  /* adjust size */
+  height: auto;
+}
+
+.title {
+  font-size: 2.5em;
+  font-weight: bold;
+  color: #007BFF;
+}
+
+/* Centered button container */
+.auth-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 30px;
+}
+
+/* Style for login and signup buttons */
+.auth-buttons button {
+  padding: 12px 25px;
+  font-size: 1.1em;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* Login button */
+.auth-buttons .login-btn {
+  background: #007BFF;
+  color: white;
+}
+
+.auth-buttons .login-btn:hover {
+  background: #0056b3;
+}
+
+/* Signup button */
+.auth-buttons .signup-btn {
+  background: #28a745;
+  color: white;
+}
+
+.auth-buttons .signup-btn:hover {
+  background: #1e7e34;
+}
+
+/* Input and form styles */
+input, button {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+button {
+  background: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #0056b3;
+}
+
+.result {
+  margin-top: 20px;
+  background: white;
+  padding: 15px;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+input[name="city"] {
+  width: 300px;   /* increase this value to make it wider */
+  padding: 10px;  /* add some spacing inside */
+  font-size: 1em; /* make text bigger */
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  margin-right: 10px; /* spacing before button */
+}

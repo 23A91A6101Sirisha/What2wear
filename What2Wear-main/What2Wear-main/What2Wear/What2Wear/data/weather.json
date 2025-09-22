@@ -1,0 +1,492 @@
+[
+    {
+        "city": "Pedd\u0101puram",
+        "temp": 29.01,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:05:45.257827"
+    },
+    {
+        "city": "S\u0101malkot",
+        "temp": 29.34,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:05:51.299528"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 29.22,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:08:20.600010"
+    },
+    {
+        "city": "S\u0101malkot",
+        "temp": 29.34,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:11:22.726340"
+    },
+    {
+        "city": "Pedd\u0101puram",
+        "temp": 29.01,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:11:32.087041"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 29.22,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:11:44.784113"
+    },
+    {
+        "city": "London",
+        "temp": 17.23,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:11:50.418278"
+    },
+    {
+        "city": "Amal\u0101puram",
+        "temp": 27.88,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:11:59.888462"
+    },
+    {
+        "city": "Tuni",
+        "temp": 28.2,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:12:11.716168"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 29.22,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:12:17.450709"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 29.22,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:13:43.838383"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 29.22,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:14:46.338953"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 29.22,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:14:51.869314"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 29.22,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:15:20.758935"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 29.22,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:15:25.558053"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 29.22,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:15:40.202513"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 29.22,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:15:49.315678"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 29.22,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:15:54.536698"
+    },
+    {
+        "city": "Pedd\u0101puram",
+        "temp": 28.8,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:21:08.392193"
+    },
+    {
+        "city": "Pedd\u0101puram",
+        "temp": 28.8,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:22:56.938185"
+    },
+    {
+        "city": "Pedd\u0101puram",
+        "temp": 28.8,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T17:24:59.306153"
+    },
+    {
+        "city": "Vijayawada",
+        "temp": 24.97,
+        "condition": "Drizzle",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:42:06.919364"
+    },
+    {
+        "city": "Vijayawada",
+        "temp": 24.97,
+        "condition": "Drizzle",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:42:14.220537"
+    },
+    {
+        "city": "Vijayawada",
+        "temp": 24.97,
+        "condition": "Drizzle",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:42:18.765017"
+    },
+    {
+        "city": "S\u0101malkot",
+        "temp": 27.76,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:42:25.506317"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 27.38,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:42:32.005587"
+    },
+    {
+        "city": "London",
+        "temp": 17.03,
+        "condition": "Rain",
+        "outfit": "Take an umbrella \u2614 and wear a raincoat.",
+        "timestamp": "2025-09-13T18:42:47.948281"
+    },
+    {
+        "city": "Italy",
+        "temp": 22.07,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:43:11.245607"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 27.38,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:43:21.584543"
+    },
+    {
+        "city": "S\u0101malkot",
+        "temp": 27.76,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:43:28.756835"
+    },
+    {
+        "city": "Tuni",
+        "temp": 27.19,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:43:35.463134"
+    },
+    {
+        "city": "Amal\u0101puram",
+        "temp": 26.13,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:43:39.423123"
+    },
+    {
+        "city": "Bengaluru",
+        "temp": 24.52,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:44:06.688673"
+    },
+    {
+        "city": "Usa River",
+        "temp": 28.38,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:44:36.748621"
+    },
+    {
+        "city": "Simla",
+        "temp": 29.98,
+        "condition": "Haze",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:45:54.191753"
+    },
+    {
+        "city": "Himachal Pradesh",
+        "temp": 21.04,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:46:10.750340"
+    },
+    {
+        "city": "Vijayawada",
+        "temp": 24.97,
+        "condition": "Drizzle",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:55:38.742215"
+    },
+    {
+        "city": "London",
+        "temp": 16.99,
+        "condition": "Rain",
+        "outfit": "Take an umbrella \u2614 and wear a raincoat.",
+        "timestamp": "2025-09-13T18:56:00.259441"
+    },
+    {
+        "city": "Tuni",
+        "temp": 27.11,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T18:56:21.502216"
+    },
+    {
+        "city": "Amal\u0101puram",
+        "temp": 32.27,
+        "condition": "Clouds",
+        "outfit": "Wear light clothes \ud83d\udc55 and sunglasses \ud83d\udd76\ufe0f.",
+        "timestamp": "2025-09-15T11:28:25.881329"
+    },
+    {
+        "city": "London",
+        "temp": 16.48,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-15T14:27:19.351298"
+    },
+    {
+        "city": "Amal\u0101puram",
+        "temp": 32.4,
+        "condition": "Rain",
+        "outfit": "Take an umbrella \u2614 and wear a raincoat.",
+        "timestamp": "2025-09-15T14:29:38.799621"
+    },
+    {
+        "city": "London",
+        "temp": 16.37,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-15T14:33:40.148417"
+    },
+    {
+        "city": "Amal\u0101puram",
+        "temp": 32.26,
+        "condition": "Clouds",
+        "outfit": "Wear light clothes \ud83d\udc55 and sunglasses \ud83d\udd76\ufe0f.",
+        "timestamp": "2025-09-15T14:33:49.444341"
+    },
+    {
+        "city": "Pedd\u0101puram",
+        "temp": 31.52,
+        "condition": "Clouds",
+        "outfit": "Wear light clothes \ud83d\udc55 and sunglasses \ud83d\udd76\ufe0f.",
+        "timestamp": "2025-09-15T14:35:28.621557"
+    },
+    {
+        "city": "Amal\u0101puram",
+        "temp": 32.26,
+        "condition": "Clouds",
+        "outfit": "Wear light clothes \ud83d\udc55 and sunglasses \ud83d\udd76\ufe0f.",
+        "timestamp": "2025-09-15T14:35:41.519375"
+    },
+    {
+        "city": "Amal\u0101puram",
+        "temp": 32.26,
+        "condition": "Clouds",
+        "outfit": "Wear light clothes \ud83d\udc55 and sunglasses \ud83d\udd76\ufe0f.",
+        "timestamp": "2025-09-15T14:35:44.095588"
+    },
+    {
+        "city": "Pedd\u0101puram",
+        "temp": 31.52,
+        "condition": "Clouds",
+        "outfit": "Wear light clothes \ud83d\udc55 and sunglasses \ud83d\udd76\ufe0f.",
+        "timestamp": "2025-09-15T14:35:50.161065"
+    },
+    {
+        "city": "Pedd\u0101puram",
+        "temp": 31.52,
+        "condition": "Clouds",
+        "outfit": "Wear light clothes \ud83d\udc55 and sunglasses \ud83d\udd76\ufe0f.",
+        "timestamp": "2025-09-15T14:35:53.934625"
+    },
+    {
+        "city": "Pedd\u0101puram",
+        "temp": 31.52,
+        "condition": "Clouds",
+        "outfit": "Wear light clothes \ud83d\udc55 and sunglasses \ud83d\udd76\ufe0f.",
+        "timestamp": "2025-09-15T14:38:05.344743"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 31.52,
+        "condition": "Rain",
+        "outfit": "Take an umbrella \u2614 and wear a raincoat.",
+        "timestamp": "2025-09-15T14:38:22.348548"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 31.52,
+        "condition": "Rain",
+        "outfit": "Take an umbrella \u2614 and wear a raincoat.",
+        "timestamp": "2025-09-15T14:42:12.647925"
+    },
+    {
+        "city": "Pedd\u0101puram",
+        "temp": 31.52,
+        "condition": "Clouds",
+        "outfit": "Wear light clothes \ud83d\udc55 and sunglasses \ud83d\udd76\ufe0f.",
+        "timestamp": "2025-09-15T14:45:21.153976"
+    },
+    {
+        "city": "K\u0101kin\u0101da",
+        "temp": 31.52,
+        "condition": "Rain",
+        "outfit": "Take an umbrella \u2614 and wear a raincoat.",
+        "timestamp": "2025-09-15T14:45:56.661096"
+    },
+    {
+        "city": "Amal\u0101puram",
+        "temp": 32.26,
+        "condition": "Clouds",
+        "outfit": "Wear light clothes \ud83d\udc55 and sunglasses \ud83d\udd76\ufe0f.",
+        "timestamp": "2025-09-15T14:46:06.898623"
+    },
+    {
+        "city": "London",
+        "temp": 16.7,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-15T14:46:19.223098"
+    },
+    {
+        "city": "Tirumala - Tirupati",
+        "temp": 34.57,
+        "condition": "Clouds",
+        "outfit": "Wear light clothes \ud83d\udc55 and sunglasses \ud83d\udd76\ufe0f.",
+        "timestamp": "2025-09-15T14:46:36.530448"
+    },
+    {
+        "city": "Texas",
+        "temp": 20.97,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-15T14:47:00.243568"
+    },
+    {
+        "city": "Pedd\u0101puram",
+        "temp": 31.56,
+        "condition": "Rain",
+        "outfit": "Take an umbrella \u2614 and wear a raincoat.",
+        "timestamp": "2025-09-15T14:49:07.538640"
+    },
+    {
+        "city": "Tuni",
+        "temp": 30.4,
+        "condition": "Clouds",
+        "outfit": "Wear light clothes \ud83d\udc55 and sunglasses \ud83d\udd76\ufe0f.",
+        "timestamp": "2025-09-15T15:10:38.007849"
+    },
+    {
+        "city": "Usa River",
+        "temp": 23.31,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-15T15:10:52.339673"
+    },
+    {
+        "city": "Annavaram",
+        "temp": 30.25,
+        "condition": "Clouds",
+        "outfit": "Wear light clothes \ud83d\udc55 and sunglasses \ud83d\udd76\ufe0f.",
+        "timestamp": "2025-09-15T15:12:03.438233"
+    },
+    {
+        "city": "P\u0101lakollu",
+        "temp": 32.07,
+        "condition": "Clouds",
+        "outfit": "Wear light clothes \ud83d\udc55 and sunglasses \ud83d\udd76\ufe0f.",
+        "timestamp": "2025-09-15T15:16:30.505619"
+    },
+    {
+        "city": "Greenland",
+        "temp": 12.61,
+        "condition": "Clear",
+        "outfit": "Wear warm clothes \ud83e\udde5, maybe a sweater.",
+        "timestamp": "2025-09-15T15:17:11.108635"
+    },
+    {
+        "city": "Iceland",
+        "temp": 6.4,
+        "condition": "Clouds",
+        "outfit": "Heavy jacket + gloves \ud83e\udde4.",
+        "timestamp": "2025-09-15T15:17:38.370373"
+    },
+    {
+        "city": "Italy",
+        "temp": 22.75,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-15T15:18:20.384552"
+    },
+    {
+        "city": "Delhi",
+        "temp": 35.05,
+        "condition": "Clouds",
+        "outfit": "Very hot! Wear shorts \ud83e\ude73, light clothes \ud83c\udfbd and drink water \ud83d\udca7.",
+        "timestamp": "2025-09-15T15:18:58.144014"
+    },
+    {
+        "city": "Goa",
+        "temp": 24.21,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-15T15:19:27.724475"
+    },
+    {
+        "city": "Mumbai",
+        "temp": 24.99,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-15T15:20:12.135974"
+    },
+    {
+        "city": "Pedd\u0101puram",
+        "temp": 31.18,
+        "condition": "Rain",
+        "outfit": "Take an umbrella \u2614 and wear a raincoat.",
+        "timestamp": "2025-09-15T15:23:22.248650"
+    }
+]

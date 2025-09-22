@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Weather Outfit App</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1 class="title">👗 ...What2Wear... 👚</h1>
+    </div>
+
+    <h2>Welcome!</h2>
+    <p>Please log in or sign up to continue</p>
+
+    <div class="auth-buttons">
+      <a href="{{ url_for('login') }}"><button class="login-btn">Login</button></a>
+      <a href="{{ url_for('signup') }}"><button class="signup-btn">Sign Up</button></a>
+    </div>
+  </div>
+</body>
+</html>

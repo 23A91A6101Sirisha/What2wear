@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dashboard | Weather Outfit App</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1 class="title">👗 ...What2Wear... 👚</h1>
+    </div>
+
+    <h2>Weather Outfit Suggestion</h2>
+    <h4>About us</h4>
+    <h5>“Enter your location and click Check Outfit to get today’s clothing suggestions.<br>
+    If you’re unsure of your location, just hit Check Outfit and we’ll do the rest!”</h5>
+
+    <form method="POST">
+      <input type="text" name="city" placeholder="Enter city (or leave blank for live location)">
+      <button type="submit">Check Outfit</button>
+    </form>
+
+    {% if weather %}
+      <div class="result">
+        <h2>Weather in {{ weather.city }}</h2>
+        <p><strong>Temperature:</strong> {{ weather.temp }}°C</p>
+        <p><strong>Condition:</strong> {{ weather.condition }}</p>
+        <h3>Suggestion: {{ outfit }}</h3>
+      </div>
+    {% endif %}
+
+    <br>
+    <a href="{{ url_for('logout') }}"><button>Logout</button></a>
+  </div>
+</body>
+</html>

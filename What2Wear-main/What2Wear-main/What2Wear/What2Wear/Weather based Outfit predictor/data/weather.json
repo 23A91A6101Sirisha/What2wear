@@ -1,0 +1,65 @@
+[
+    {
+        "city": "Amal\u0101puram",
+        "temp": 25.69,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T20:41:47.494534"
+    },
+    {
+        "city": "Hyderabad",
+        "temp": 24.23,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T20:47:04.126023"
+    },
+    {
+        "city": "Amal\u0101puram",
+        "temp": 25.69,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T20:47:20.489735"
+    },
+    {
+        "city": "Hyderabad",
+        "temp": 24.23,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T20:47:31.652264"
+    },
+    {
+        "city": "Amal\u0101puram",
+        "temp": 25.69,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T20:47:37.793243"
+    },
+    {
+        "city": "Hyderabad",
+        "temp": 24.23,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T20:57:01.858527"
+    },
+    {
+        "city": "Amal\u0101puram",
+        "temp": 25.69,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T20:57:08.983139"
+    },
+    {
+        "city": "Amal\u0101puram",
+        "temp": 25.64,
+        "condition": "Clouds",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T21:23:33.991612"
+    },
+    {
+        "city": "Hyderabad",
+        "temp": 23.73,
+        "condition": "Mist",
+        "outfit": "A T-shirt \ud83d\udc5a and jeans \ud83d\udc56 are fine.",
+        "timestamp": "2025-09-13T21:23:51.394808"
+    }
+]

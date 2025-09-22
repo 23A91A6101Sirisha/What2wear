@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Welcome | Weather Outfit App</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>👗 Welcome to What2Wear 👚</h1>
+    <p>Your smart weather-based outfit assistant.</p>
+    <a href="{{ url_for('login') }}"><button>Login</button></a>
+    <a href="{{ url_for('signup') }}"><button>Sign Up</button></a>
+  </div>
+</body>
+</html>

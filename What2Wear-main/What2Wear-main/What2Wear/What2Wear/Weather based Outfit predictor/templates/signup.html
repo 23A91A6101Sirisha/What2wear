@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Signup | Weather Outfit App</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <div class="header">
+      <h1 class="title">👗...What2Wear...👚</h1>
+    </div>
+
+    <h2>Create Account</h2>
+    <form method="POST" class="auth-form">
+      <input type="text" name="username" placeholder="Choose username" required>
+      <input type="password" name="password" placeholder="Choose password" required>
+      <button type="submit">Sign Up</button>
+    </form>
+    <p>Already have an account? <a href="{{ url_for('login') }}">Login here</a></p>
+  </div>
+</body>
+</html>
